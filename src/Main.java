@@ -1,5 +1,3 @@
-package calculator;
-
 import calculator.UI;
 
 public class Main {
